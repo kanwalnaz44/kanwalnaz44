@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/git.png.png" width="100%"type=waving&color=0:F8BBD0,50:EC407A&height=140&section=header&text=Mahnoor%20Javed&fontSize=45&fontColor=ffffff&fontAlignY=32&animation=fadeInOut" alt="GitHub">
+  <img src="/git.png.png" width="70%" alt="GitHub">
 </p>
 
 ## 💜 About Me
