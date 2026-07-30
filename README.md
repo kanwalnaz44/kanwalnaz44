@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/git.png" width="300" alt="GitHub">
+  <img src="/git.png.png" width="300" alt="GitHub">
 </p>
 
 ## 💜 About Me
