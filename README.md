@@ -81,13 +81,128 @@ Hi, I'm **Kanwal Naz** 👋
 </table>
 
 
-## 💜 GitHub Stats
 
+
+<!-- <td width="50%" valign="top">
+
+<h2>📊 GitHub Stats</h2>
+
+<p>⭐ <b>Total Stars</b> &nbsp;&nbsp;&nbsp; 0</p>
+<hr>
+
+<p>💜 <b>Total Commits</b> &nbsp;&nbsp;&nbsp; --</p>
+<hr>
+
+<p>🔀 <b>Total PRs</b> &nbsp;&nbsp;&nbsp; --</p>
+<hr>
+
+<p>📁 <b>Repositories</b> &nbsp;&nbsp;&nbsp; --</p>
+<hr>
+
+<p>👥 <b>Joined GitHub</b> &nbsp;&nbsp;&nbsp; --</p>
+
+<br>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanwalnaz44&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=A855F7&text_color=5B21B6"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=kanwalnaz44&theme=transparent&ring=A855F7&fire=A855F7&currStreakLabel=8B5CF6"/>
-
+  <img
+src="https://cdn.simpleicons.org/github/7130BD"
+width="70"
+alt="GitHub"
+/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanwalnaz44&show_icons=true&hide_border=true&title_color=7B3FC6&icon_color=9B59D0&text_color=29243D&bg_color=FFFFFF" width="90%">
 </p>
+
+</td> -->
+
+
+<td width="50%" valign="top">
+
+<h2>🔥 GitHub Streak</h2>
+
+<br>
+
+<p align="center">
+  <b>Current Streak</b>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kanwalnaz44&theme=default&hide_border=true&ring=9B59D0&fire=9B59D0&currStreakLabel=6A2EA8&sideLabels=6A2EA8&dates=555555" width="90%">
+</p>
+
+<br>
+
+<p align="center">
+  <b>🔥 Current Streak: 0</b>
+</p>
+
+<p align="center">
+  <b>⭐ Best Streak: 0</b>
+</p>
+
+</td>
+
+</tr>
+
+
+<table width="1200%">
+<tr>
+
+<!-- GITHUB STATS -->
+<td width="50%" valign="middle">
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+⭐ &nbsp; <b>Total Stars</b>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color:#7130BD;"><b>0</b></span>
+</p>
+
+<hr>
+
+<p>
+💜 &nbsp; <b>Total Commits</b>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color:#7130BD;"><b>--</b></span>
+</p>
+
+<hr>
+
+<p>
+🔀 &nbsp; <b>Total PRs</b>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color:#7130BD;"><b>--</b></span>
+</p>
+
+<hr>
+
+<p>
+📁 &nbsp; <b>Repositories</b>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color:#7130BD;"><b>20</b></span>
+</p>
+
+<hr>
+
+<p>
+👥 &nbsp; <b>Joined GitHub</b>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color:#7130BD;"><b>2025</b></span>
+</p>
+
+</td>
+
+
+<!-- GITHUB LOGO -->
+<td width="50%" align="center" valign="middle">
+
+<img
+src="https://cdn.simpleicons.org/github/7130BD"
+width="150"
+alt="GitHub"
+/>
+
+</td>
+
+</tr>
+</table>
