@@ -6,6 +6,7 @@
 Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and responsive web experiences. I love turning ideas into clean, modern and user-friendly interfaces.
 </p>
 <br>
+
 💜 Frontend Web Developer from Pakistan
 
 🎓 Commerce Graduate (BBS University)
@@ -76,6 +77,41 @@ Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and re
 <td>Personal portfolio showcasing projects, skills and achievements.</td>
 </tr>
 </table>
+<br>
+<!-- WHAT I DO -->
+
+<h2>💼 What I Do</h2>
+
+<p>
+🖌️ UI/UX Design &nbsp;&nbsp; • &nbsp;&nbsp;
+🧩 Frontend Development
+</p>
+
+<p>
+📐 Responsive Websites &nbsp;&nbsp; • &nbsp;&nbsp;
+⚙️ Interactive Web Apps
+</p>
+
+
+<!-- CURRENTLY LEARNING -->
+
+<h2>🌱 Currently Learning</h2>
+
+<p>
+⚛️ Advanced React &nbsp;&nbsp; • &nbsp;&nbsp;
+✨ JavaScript ES6+
+</p>
+
+
+<!-- GOALS -->
+
+<h2>🚀 My Goals</h2>
+
+<p>
+🌐 Build modern websites<br>
+⚛️ Improve my React skills<br>
+📈 Keep learning and growing as a developer
+</p>
 <br>
 <td width="50%" valign="top">
 
