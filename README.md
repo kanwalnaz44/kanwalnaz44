@@ -205,4 +205,115 @@ alt="GitHub"
 <p>⚪ Other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ━━ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>5%</b></p>
 
 </td>
+<!-- CONNECT WITH ME -->
 
+<table width="100%" border="0" cellpadding="18">
+<tr>
+<td align="center">
+
+<h2>💜 Connect With Me</h2>
+
+<p>
+✨ Let's connect, collaborate and build something amazing together! ✨
+</p>
+
+<br>
+
+<table border="0" cellpadding="12">
+<tr>
+
+<!-- LINKEDIN -->
+<td align="center">
+<a href="YOUR_LINKEDIN_LINK">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+width="45"
+alt="LinkedIn"
+/>
+<br>
+<b>LinkedIn</b>
+</a>
+</td>
+
+
+<!-- GITHUB -->
+<td align="center">
+<a href="https://github.com/kanwalnaz44">
+<img
+src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+width="45"
+alt="GitHub"
+/>
+<br>
+<b>GitHub</b>
+</a>
+</td>
+
+
+<!-- NETLIFY -->
+<td align="center">
+<a href="YOUR_NETLIFY_LINK">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
+width="45"
+alt="Netlify"
+/>
+<br>
+<b>Netlify</b>
+</a>
+</td>
+
+
+<!-- FIREBASE -->
+<td align="center">
+<a href="YOUR_FIREBASE_LINK">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+width="45"
+alt="Firebase"
+/>
+<br>
+<b>Firebase</b>
+</a>
+</td>
+
+
+<!-- PORTFOLIO -->
+<td align="center">
+<a href="YOUR_PORTFOLIO_LINK">
+<img
+src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+width="45"
+alt="Portfolio"
+/>
+<br>
+<b>Portfolio</b>
+</a>
+</td>
+
+
+<!-- EMAIL -->
+<td align="center">
+<a href="mailto:YOUR_REAL_EMAIL">
+<img
+src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+width="45"
+alt="Email"
+/>
+<br>
+<b>Email</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p>
+💜 ──────────────── ✦ ──────────────── 💜
+</p>
+
+</td>
+</tr>
+</table>
