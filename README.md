@@ -1,10 +1,11 @@
 <p align="center">
   <img src="/git.png.png" width="70%" alt="GitHub">
 </p>
-
-## 💜 About Me
-Hi, I'm **Kanwal Naz** 👋
-
+<h2>👩🏻‍💻 About Me</h2>
+<p>
+Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and responsive web experiences. I love turning ideas into clean, modern and user-friendly interfaces.
+</p>
+<br>
 💜 Frontend Web Developer from Pakistan
 
 🎓 Commerce Graduate (BBS University)
@@ -19,15 +20,12 @@ Hi, I'm **Kanwal Naz** 👋
 
 ✨ I love creating modern, responsive and user-friendly websites.
 
-## 💜 My Skills
-
+<h2>🛠️ Skills & Technologies</h2>
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,github"/>
-
 </p>
-
-## 💜 Featured Projects
+<br>
+ <h2>🚀 Featured Projects</h2>
 <table>
 
 <tr>
@@ -77,60 +75,21 @@ Hi, I'm **Kanwal Naz** 👋
 <td><b>Portfolio Website</b></td>
 <td>Personal portfolio showcasing projects, skills and achievements.</td>
 </tr>
-
 </table>
-
-
-
-
-<!-- <td width="50%" valign="top">
-
-<h2>📊 GitHub Stats</h2>
-
-<p>⭐ <b>Total Stars</b> &nbsp;&nbsp;&nbsp; 0</p>
-<hr>
-
-<p>💜 <b>Total Commits</b> &nbsp;&nbsp;&nbsp; --</p>
-<hr>
-
-<p>🔀 <b>Total PRs</b> &nbsp;&nbsp;&nbsp; --</p>
-<hr>
-
-<p>📁 <b>Repositories</b> &nbsp;&nbsp;&nbsp; --</p>
-<hr>
-
-<p>👥 <b>Joined GitHub</b> &nbsp;&nbsp;&nbsp; --</p>
-
 <br>
-
-<p align="center">
-  <img
-src="https://cdn.simpleicons.org/github/7130BD"
-width="70"
-alt="GitHub"
-/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kanwalnaz44&show_icons=true&hide_border=true&title_color=7B3FC6&icon_color=9B59D0&text_color=29243D&bg_color=FFFFFF" width="90%">
-</p>
-
-</td> -->
-
-
 <td width="50%" valign="top">
 
 <h2>🔥 GitHub Streak</h2>
 
 <br>
-
 <p align="center">
   <b>Current Streak</b>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kanwalnaz44&theme=default&hide_border=true&ring=9B59D0&fire=9B59D0&currStreakLabel=6A2EA8&sideLabels=6A2EA8&dates=555555" width="90%">
 </p>
 
 <br>
-
 <p align="center">
   <b>🔥 Current Streak: 0</b>
 </p>
@@ -138,67 +97,55 @@ alt="GitHub"
 <p align="center">
   <b>⭐ Best Streak: 0</b>
 </p>
-
 </td>
-
 </tr>
-
-
-<table width="1200%">
+<br>
+<table width="100%" border="0" cellpadding="12">
 <tr>
-
-<!-- GITHUB STATS -->
-<td width="50%" valign="middle">
-
 <h2>📊 GitHub Stats</h2>
+<!-- LEFT: GITHUB STATS -->
+<td width="65%" valign="middle">
+
+<p>kanwalnaz44</p>
 
 <p>
 ⭐ &nbsp; <b>Total Stars</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="color:#7130BD;"><b>0</b></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+━━━━━━━━━━━━━━━━ 
+&nbsp; 0
 </p>
-
-<hr>
 
 <p>
 💜 &nbsp; <b>Total Commits</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="color:#7130BD;"><b>--</b></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+━━━━━━━━━━━━━━━ --- &nbsp; -
 </p>
-
-<hr>
 
 <p>
 🔀 &nbsp; <b>Total PRs</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="color:#7130BD;"><b>--</b></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+━━━━━━━━━━━━━━━━ ---&nbsp;
 </p>
-
-<hr>
 
 <p>
 📁 &nbsp; <b>Repositories</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="color:#7130BD;"><b>20</b></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+━━━━━━━━━━━━━━━ 20 &nbsp;
 </p>
 
-<hr>
-
 <p>
-👥 &nbsp; <b>Joined GitHub</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="color:#7130BD;"><b>2025</b></span>
+🕐 &nbsp; <b>Joined GitHub</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+━━━━━━━━━━━━ 2025 &nbsp;
 </p>
 
 </td>
-
-
-<!-- GITHUB LOGO -->
-<td width="50%" align="center" valign="middle">
+<!-- RIGHT: ONLY IMAGE -->
+<td width="30%" align="center" valign="middle">
 
 <img
-src="https://cdn.simpleicons.org/github/7130BD"
-width="150"
+src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+width="180"
 alt="GitHub"
 />
 
@@ -206,3 +153,20 @@ alt="GitHub"
 
 </tr>
 </table>
+<br>
+<td width="50%" valign="top">
+
+<h2>💻 Top Languages 💜</h2>
+
+<p>🟡 JavaScript &nbsp;&nbsp; ━━━━━━━━━━━━━ &nbsp;&nbsp; <b>45%</b></p>
+
+<p>🔴 HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ━━━━━━━━ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>25%</b></p>
+
+<p>🔵 CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ━━━━━ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>15%</b></p>
+
+<p>🔷 React JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ━━━ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>10%</b></p>
+
+<p>⚪ Other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ━━ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>5%</b></p>
+
+</td>
+
