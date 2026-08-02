@@ -224,7 +224,7 @@ alt="GitHub"
 
 <!-- LINKEDIN -->
 <td align="center">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/kanwal-naz-70893039b/">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 width="45"
