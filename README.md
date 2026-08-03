@@ -249,9 +249,9 @@ alt="GitHub"
 </a>
 </td>
 <td align="center">
-<a href="YOUR_NETLIFY_LINK">
+<a href="https://app.netlify.com/teams/kanwalnaz44/projects"
 <img
-src="https://app.netlify.com/teams/kanwalnaz44/projects"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
 width="45"
 alt="Netlify"
 />
@@ -261,9 +261,9 @@ alt="Netlify"
 </td>
 <!-- FIREBASE -->
 <td align="center">
-<a href="YOUR_FIREBASE_LINK">
+<a href="https://console.firebase.google.com">
 <img
-src ="https://console.firebase.google.com/"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
 width="45"
 alt="Firebase"
 />
