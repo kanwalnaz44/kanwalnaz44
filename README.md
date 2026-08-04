@@ -205,26 +205,27 @@ alt="GitHub"
 <p>⚪ Other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ━━ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>5%</b></p>
 
 </td>
+
 <!-- CONNECT WITH ME -->
 
-
+<table width="100%" border="0" cellpadding="18">
 <tr>
 <td align="center">
 
-<h2 align="center" >💜 Connect With Me</h2>
+<h2>💜 Connect With Me</h2>
 
-<p align="center">
+<p>
 ✨ Let's connect, collaborate and build something amazing together! ✨
 </p>
 
 <br>
 
-<table border="0" cellpadding="12" align="center">
+<table border="0" cellpadding="12">
 <tr>
 
 <!-- LINKEDIN -->
 <td align="center">
-<a href="https://www.linkedin.com/in/kanwal-naz-70893039b/">
+<a href="YOUR_LINKEDIN_LINK">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 width="45"
@@ -248,8 +249,11 @@ alt="GitHub"
 <b>GitHub</b>
 </a>
 </td>
+
+
+<!-- NETLIFY -->
 <td align="center">
-<a href="https://app.netlify.com/teams/kanwalnaz44/projects"
+<a href="YOUR_NETLIFY_LINK">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
 width="45"
@@ -259,9 +263,11 @@ alt="Netlify"
 <b>Netlify</b>
 </a>
 </td>
+
+
 <!-- FIREBASE -->
 <td align="center">
-<a href="https://console.firebase.google.com">
+<a href="YOUR_FIREBASE_LINK">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
 width="45"
@@ -271,6 +277,8 @@ alt="Firebase"
 <b>Firebase</b>
 </a>
 </td>
+
+
 <!-- PORTFOLIO -->
 <td align="center">
 <a href="YOUR_PORTFOLIO_LINK">
@@ -283,6 +291,8 @@ alt="Portfolio"
 <b>Portfolio</b>
 </a>
 </td>
+
+
 <!-- EMAIL -->
 <td align="center">
 <a href="mailto:YOUR_REAL_EMAIL">
@@ -301,10 +311,10 @@ alt="Email"
 
 <br>
 
-<p align="center" >
+<p>
 💜 ──────────────── ✦ ──────────────── 💜
 </p>
 
 </td>
 </tr>
-
+</table>
