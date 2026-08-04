@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/git.png.png" width="70%" alt="GitHub">
+  <img src="/git.png.png" width="100%" alt="GitHub">
 </p>
 <h2>👩🏻‍💻 About Me</h2>
 <p>
@@ -161,7 +161,7 @@ Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and re
 <p>
 📁 &nbsp; <b>Repositories</b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-━━━━━━━━━━━━━━━ 20 &nbsp;
+━━━━━━━━━━━━━━━ 39 &nbsp;
 </p>
 
 <p>
@@ -200,27 +200,21 @@ alt="GitHub"
 <p>⚪ Other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ━━ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>5%</b></p>
 
 </td>
-
-<!-- CONNECT WITH ME -->
-
-<table width="100%" border="0" cellpadding="18">
 <tr>
 <td align="center">
 
-<h2>💜 Connect With Me</h2>
+<h2 align="center">💜 Connect With Me</h2>
 
-<p>
+<p align="center">
 ✨ Let's connect, collaborate and build something amazing together! ✨
 </p>
 
 <br>
 
-<table border="0" cellpadding="12">
+<table align="center" border="0" cellpadding="12">
 <tr>
-
-<!-- LINKEDIN -->
 <td align="center">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/kanwal-naz-70893039b/">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 width="45"
@@ -230,8 +224,6 @@ alt="LinkedIn"
 <b>LinkedIn</b>
 </a>
 </td>
-
-
 <!-- GITHUB -->
 <td align="center">
 <a href="https://github.com/kanwalnaz44">
@@ -248,7 +240,7 @@ alt="GitHub"
 
 <!-- NETLIFY -->
 <td align="center">
-<a href="YOUR_NETLIFY_LINK">
+<a href="https://app.netlify.com/teams/kanwalnaz44/overview">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
 width="45"
@@ -262,7 +254,7 @@ alt="Netlify"
 
 <!-- FIREBASE -->
 <td align="center">
-<a href="YOUR_FIREBASE_LINK">
+<a href="https://console.firebase.google.com/">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
 width="45"
@@ -286,30 +278,20 @@ alt="Portfolio"
 <b>Portfolio</b>
 </a>
 </td>
-
-
-<!-- EMAIL -->
-<td align="center">
-<a href="mailto:YOUR_REAL_EMAIL">
-<img
-src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-width="45"
-alt="Email"
-/>
-<br>
-<b>Email</b>
-</a>
-</td>
-
 </tr>
 </table>
 
 <br>
-
-<p>
+<p align="center" >
 💜 ──────────────── ✦ ──────────────── 💜
 </p>
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
 
+<p align="center">
+  <i>Let's connect and build something amazing together. 🚀</i>
+</p>
 </td>
 </tr>
-</table>
+
