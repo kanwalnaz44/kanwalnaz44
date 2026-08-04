@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/git.png.png" width="100%" alt="GitHub">
+  <img src="/git.png.png" width="90%" alt="GitHub">
 </p>
 <h2>👩🏻‍💻 About Me</h2>
 <p>
