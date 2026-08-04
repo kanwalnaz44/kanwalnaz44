@@ -113,29 +113,24 @@ Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and re
 📈 Keep learning and growing as a developer
 </p>
 <br>
+<h2>🔥 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kanwalnaz44&bg_color=ffffff&color=6A2EA8&line=9B59D0&point=6A2EA8&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
 <td width="50%" valign="top">
-
-<h2>🔥 GitHub Streak</h2>
-
-<br>
 <p align="center">
-  <b>Current Streak</b>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanwalnaz44&theme=default&hide_border=true&ring=9B59D0&fire=9B59D0&currStreakLabel=6A2EA8&sideLabels=6A2EA8&dates=555555" width="90%">
-</p>
-
-<br>
-<p align="center">
-  <b>🔥 Current Streak: 0</b>
+  💜 <b>Current Streak: 2</b>
 </p>
 
 <p align="center">
-  <b>⭐ Best Streak: 0</b>
+  ⭐ <b>Best Streak: 2</b>
 </p>
+
 </td>
-</tr>
-<br>
 <table width="100%" border="0" cellpadding="12">
 <tr>
 <h2>📊 GitHub Stats</h2>
